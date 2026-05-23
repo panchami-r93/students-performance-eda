@@ -6,3 +6,4 @@
 - EDA and insight extraction from education data
 - Can identify business-relevant patterns
 - Clear communication of findings
+ 
